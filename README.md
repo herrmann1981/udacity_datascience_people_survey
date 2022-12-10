@@ -7,7 +7,7 @@ This was a survey conducted by students of a statistics class in the UK. It cont
 
 ## CRISP DM Data Science Process
 FDor this course we try to follow the CRISP DM Data Science Process as shown below. It stands for Cross Industry Data Science Process for Data Mining and includes the following steps:
-* Busines Understanding
+* Business Understanding
 * Data Understanding
 * Data Preparation
 * Data Modeling
@@ -190,7 +190,7 @@ The survey that was conducted consisted of several questions:
 10. I lived most of my childhood in a: house/bungalow - block of flats (categorical)
 
 
-## Busines Question
+## Business Question
 Since this is a dataset that is not really business related ḿ we have to think about artificial business questions. For this we will imagine that we are a greedy sportswear company and we are interested in the following topics:
 
 ### Predict spending habbits

@@ -96,13 +96,13 @@ The survey that was conducted consisted of several questions:
 1. Flying: Not afraid at all 1-2-3-4-5 Very afraid of (integer)
 2. Thunder, lightning: Not afraid at all 1-2-3-4-5 Very afraid of (integer)
 3. Darkness: Not afraid at all 1-2-3-4-5 Very afraid of (integer)
-3. Heights: Not afraid at all 1-2-3-4-5 Very afraid of (integer)
-4. Spiders: Not afraid at all 1-2-3-4-5 Very afraid of (integer)
-5. Snakes: Not afraid at all 1-2-3-4-5 Very afraid of (integer)
-6. Rats, mice: Not afraid at all 1-2-3-4-5 Very afraid of (integer)
-7. Ageing: Not afraid at all 1-2-3-4-5 Very afraid of (integer)
-8. Dangerous dogs: Not afraid at all 1-2-3-4-5 Very afraid of (integer)
-9. Public speaking: Not afraid at all 1-2-3-4-5 Very afraid of (integer)
+4. Heights: Not afraid at all 1-2-3-4-5 Very afraid of (integer)
+5. Spiders: Not afraid at all 1-2-3-4-5 Very afraid of (integer)
+6. Snakes: Not afraid at all 1-2-3-4-5 Very afraid of (integer)
+7. Rats, mice: Not afraid at all 1-2-3-4-5 Very afraid of (integer)
+8. Ageing: Not afraid at all 1-2-3-4-5 Very afraid of (integer)
+9. Dangerous dogs: Not afraid at all 1-2-3-4-5 Very afraid of (integer)
+10. Public speaking: Not afraid at all 1-2-3-4-5 Very afraid of (integer)
 
 ### HEALTH HABITS
 1. Smoking habits: Never smoked - Tried smoking - Former smoker - Current smoker (categorical)
@@ -194,7 +194,7 @@ The survey that was conducted consisted of several questions:
 Since this is a dataset that is not really business related ḿ we have to think about artificial business questions. For this we will imagine that we are a greedy sportswear company and we are interested in the following topics:
 
 ### Predict spending habbits
-Here we want to predict what factors (personal traits, happibts, hobbies or demographics) can predict if a person is spending a lot of money on gadgets (Since we want to sell a lot of them and want
+Here we want to predict what factors (personal traits, habbits, hobbies or demographics) can predict if a person is spending a lot of money on gadgets (Since we want to sell a lot of them and want
 to address exactly those people with the right advertisement)?
 
 ### Predict healthy lifestyle
